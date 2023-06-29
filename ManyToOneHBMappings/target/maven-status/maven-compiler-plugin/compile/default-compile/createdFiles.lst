@@ -1,0 +1,3 @@
+com\mahagan\entities\State.class
+com\mahagan\entities\Country.class
+com\mahagan\store\ManyToOneStore.class
